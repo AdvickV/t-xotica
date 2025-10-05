@@ -101,9 +101,9 @@ main {
   backdrop-filter: blur(40px) saturate(180%);
   border: 1px solid var(--glass-border);
   box-shadow: 0 0 50px rgba(0, 175, 255, 0.2), 0 20px 50px rgba(0,0,0,0.5);
-  padding: 40px;
+  padding: 50px;
   color: var(--muted);
-  border-radius: 50px;
+  border-radius: 80px;
   transition: all 0.4s ease;
 }
 .glass-card:hover {
